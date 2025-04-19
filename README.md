@@ -8,6 +8,10 @@
   </p>
 </div>
 
+### ⚠️ Disclaimer
+
+**This project is a work in progress**
+
 ## About The Project
 
 A Java-based API wrapper for SMHI. Allows for gathering and collection of data through an abstracted layer.
